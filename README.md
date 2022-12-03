@@ -1,1 +1,3 @@
-# 어떻게 하는건가.
+# 이래하는건가.
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
